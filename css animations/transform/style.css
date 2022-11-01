@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+
+}
+
+.um{
+    transform: translate(100px) scale(1.5);
+    height: 100px;
+    width: 100px;
+}
+
+.dois{
+    height: 100px;
+    width: 100px;
+    transform: translate(20px,5px);
+}
+
+.tres{
+    height: 100px;
+    width: 100px;
+    transform: rotate(-45deg);
+}
+
+.quatro{
+    height: 100px;
+    width: 100px;
+    transform: skew(20deg);
+}

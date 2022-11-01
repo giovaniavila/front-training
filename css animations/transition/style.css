@@ -1,0 +1,14 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+
+    transition-property: background-color, border-radius;
+    transition-duration: 2s, 1.5s;
+    transition-timing-function: cubic-bezier(.15,.89,.85,.26);
+}
+
+.box:hover{
+    background-color: red;
+    border-radius: 300px;
+}
