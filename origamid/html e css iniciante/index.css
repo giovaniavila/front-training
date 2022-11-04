@@ -13,8 +13,8 @@ h2{
 .container{
     display: grid;
     height: 800px;
-    grid-template-columns: 300px 300px 300px;
-    place-content: space-around start;
+    grid-template-columns: 300px 300px;
+    place-content: center;
     gap: 20px;
 }
 
