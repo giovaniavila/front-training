@@ -22,7 +22,7 @@ header > h1{
     display: grid;
     height: 1000px;
     grid-template-columns: 300px 300px;
-    place-content: space-between center;
+    place-content: center;
     gap: 20px;
 }
 
