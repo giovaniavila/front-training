@@ -36,6 +36,8 @@ body{
 }
 
 .conteudo > input{
+    margin-left: 40px;
     width: 150px;
     align-items: center;
 }
+
